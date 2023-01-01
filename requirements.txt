@@ -1,4 +1,4 @@
-https://github.com/pyrogram/pyrogram/archive/refs/tags/v1.4.0.zip
+https://github.com/pyrogram/pyrogram/archive/refs/tags/v1.2.0.zip
 tgcrypto
 appdirs
 aria2p
