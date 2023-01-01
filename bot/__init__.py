@@ -12,7 +12,7 @@ CONFIG = Config({
     'API_HASH' : '2c015c994c57b312708fecc8a2a0f1a6',
     'API_ID' : '15830858',
     'BOT_TOKEN' : '5845606249:AAH-CoS7NLQUOnI5JZvQcH6sNZIz79EnPA0',
-    'BOT_PASSWORD' : None,
+    'BOT_PASSWORD' : 0000,
     'CHAT_ID' : '',
     'EDIT_SLEEP' : 3,
     'UPLOAD_MAX_SIZE' : 2000 * 1024 * 1024,
